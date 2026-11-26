@@ -1,0 +1,1 @@
+console.log("Halo, ini kontribusi eqtadabilhadimuhammad4-code pada proyek TRPL.");
